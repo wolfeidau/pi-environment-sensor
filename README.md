@@ -12,6 +12,11 @@ This is what my development environment looks like at the moment, uses a bit of 
 
 Before you can build this you need to download the "BSEC 2.x Software" from https://www.bosch-sensortec.com/software-tools/software/bme688-software/#aistudio and extract it into the project folder.
 
+```
+sudo apt install libpaho-mqtt-dev
+sudo apt install mosquitto
+```
+
 # references
 
 Some of the projects which helped me get started.

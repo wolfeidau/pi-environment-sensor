@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "i2c-dev.h": "c",
+        "mosquitto.h": "c"
+    }
+}
